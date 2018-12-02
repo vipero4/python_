@@ -5,13 +5,7 @@
 # Rock beats scissors
 # Scissors beats paper
 # Paper beats rock
-
 import random
-
-print("-" * 50)
-print("\t\t\tPAPER, ROCK, SCISSORS")
-print("\t\t\t\t\tSTART !!!")
-print("-" * 50)
 
 print("1. NEW GAME")
 print("2. RULES")
